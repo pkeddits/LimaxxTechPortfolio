@@ -44,7 +44,7 @@ export const projects: Project[] = [
     technologies: ['AWS S3', 'CloudFront', 'HTML'],
     category: 'infrastructure',
     liveUrl: 'https://github.com/pkeddits/Portfolio',
-    githubUrl: 'https://github.com/pkeddits/Portfolio',
+    githubUrl: 'https://github.com/pkeddits/LimaxxTechPortfolio',
   },
   {
     id: 5,
@@ -74,7 +74,7 @@ export const projects: Project[] = [
     category: 'inDevelopment',
     status: 'Em desenvolvimento',
     liveUrl: 'https://github.com/pkeddits/Portfolio',
-    githubUrl: 'https://github.com/pkeddits/Portfolio',
+    githubUrl: 'https://github.com/pkeddits/LimaxxTechPortfolio',
   },
   {
     id: 8,

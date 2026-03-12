@@ -43,8 +43,8 @@ export const projects: Project[] = [
     description: 'Projeto de deploy de website utilizando serviços da AWS para hospedagem de aplicações web estáticas. O objetivo foi aprender conceitos básicos de cloud computing, armazenamento e distribuição de conteúdo',
     technologies: ['AWS S3', 'CloudFront', 'HTML'],
     category: 'infrastructure',
-    liveUrl: 'https://github.com/pkeddits/Portfolio',
-    githubUrl: 'https://github.com/pkeddits/LimaxxTechPortfolio',
+    liveUrl: 'http://consultoriawebsite.s3-website.us-east-2.amazonaws.com',
+    githubUrl: 'https://github.com/pkeddits/SiteConsultoriaADS',
   },
   {
     id: 5,
@@ -73,7 +73,7 @@ export const projects: Project[] = [
     technologies: ['React', 'TypeScript', 'LocalStorage'],
     category: 'inDevelopment',
     status: 'Em desenvolvimento',
-    liveUrl: 'https://github.com/pkeddits/Portfolio',
+    liveUrl: 'https://github.com/pkeddits/LimaxxTechPortfolio',
     githubUrl: 'https://github.com/pkeddits/LimaxxTechPortfolio',
   },
   {

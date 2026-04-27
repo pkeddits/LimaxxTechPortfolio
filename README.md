@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="src/assets/cartoons/11.png" width="120" alt="Felipe Lima"/>
+<img src="https://raw.githubusercontent.com/pkeddits/Cartoons/main/11.png" width="120" alt="Felipe Lima"/>
 
 # Felipe Lima · Portfolio v1
 
